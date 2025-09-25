@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/emanuelrodrigues2005">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=30A9F0&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Eu+sou+o+Emanuel+Rodrigues;Hi!+I'm+Emanuel+Rodrigues;Desenvolvedor+de+Software+de+Recife-PE;Software+Developer+from+Recife-PE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=30A9F0&center=true&vCenter=true&width=850&lines=Ol%C3%A1!+Eu+sou+o+Emanuel+Rodrigues;Hi!+I'm+Emanuel+Rodrigues;Desenvolvedor+de+Software+de+Recife-PE;Software+Developer+from+Recife-PE" alt="Typing SVG" />
   </a>
 </div>
 
