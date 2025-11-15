@@ -61,17 +61,23 @@
   ### 🚀 Meus Principais Projetos
   <table width="100%">
     <tr>
-      <td width="50%" valign="top">
-        <h3>🚗 Projeto-Consórcio-IP-II</h3>
+      <td width="33%" valign="top">
+        <h3>Projeto-Consórcio-IP-II</h3>
         <p>Um sistema de desktop completo para gerenciamento de consórcios, desenvolvido em Java com JavaFX. Permite a administração de clientes, grupos e contratos, além de simulação de sorteios e controle financeiro.</p>
         <strong>Tecnologias:</strong> Java, JavaFX, FXML, Maven.<br>
         <a href="https://github.com/emanuelrodrigues2005/consorcio_project_ip"><strong>🔗 Ver Repositório</strong></a>
       </td>
-      <td width="50%" valign="top">
-        <h3>🐍 Caxeiro-Viajante-Python</h3>
+      <td width="33%" valign="top">
+        <h3>Caxeiro-Viajante-Python</h3>
         <p>Implementação em Python de algoritmos para solucionar o Problema do Caixeiro Viajante (PCV). O projeto explora e compara uma abordagem exata (Backtracking) e uma heurística (Algoritmo Guloso/Vizinho mais próximo).</p>
         <strong>Tecnologias:</strong> Python.<br>
         <a href="https://github.com/emanuelrodrigues2005/caxeiro-viajante-python"><strong>🔗 Ver Repositório</strong></a>
+      </td>
+      <td width="33%" valign="top">
+        <h3>Desenvolvimento API RESTful</h3>
+        <p>Desenvolvimento de uma API RESTful para um sistema de alunos e classes, utilização comunicação com banco de dados PostgreSQL.</p>
+        <strong>Tecnologias:</strong> TypeScript, Node.js, Express.js, Prisma ORM, PostgreSQL, Json Web Token.<br>
+        <a href="https://github.com/emanuelrodrigues2005/Express-Node-Prisma-Project"><strong>🔗 Ver Repositório</strong></a>
       </td>
     </tr>
   </table>
