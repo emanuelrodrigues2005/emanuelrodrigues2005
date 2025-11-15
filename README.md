@@ -129,17 +129,23 @@
   ### 🚀 My Top Projects
   <table width="100%">
     <tr>
-      <td width="50%" valign="top">
-        <h3>🚗 Consortium Project (Java)</h3>
+      <td width="33%" valign="top">
+        <h3>Consortium Project (Java)</h3>
         <p>A complete desktop system for managing consortiums, developed in Java with JavaFX. It allows for the administration of clients, groups, and contracts, as well as simulating draws and financial control.</p>
-        <strong>Technologies:</strong> Java, JavaFX, FXML, Maven.<br>
+        <strong>Stacks:</strong> Java, JavaFX, FXML, Maven.<br>
         <a href="https://github.com/emanuelrodrigues2005/consorcio_project_ip"><strong>🔗 View Repository</strong></a>
       </td>
-      <td width="50%" valign="top">
-        <h3>🐍 Traveling Salesperson (Python)</h3>
+      <td width="33%" valign="top">
+        <h3>Traveling Salesperson (Python)</h3>
         <p>A Python implementation of algorithms to solve the Traveling Salesperson Problem (TSP). The project explores and compares an exact approach (Backtracking) and a heuristic (Greedy Algorithm/Nearest Neighbor).</p>
-        <strong>Technologies:</strong> Python.<br>
+        <strong>Stacks:</strong> Python.<br>
         <a href="https://github.com/emanuelrodrigues2005/caxeiro-viajante-python"><strong>🔗 View Repository</strong></a>
+      </td>
+      <td width="33%" valign="top">
+        <h3>RESTful API Development</h3>
+        <p>Development of a RESTful API for a student and class system, using communication with a PostgreSQL database.L.</p>
+        <strong>Stacks:</strong> TypeScript, Node.js, Express.js, Prisma ORM, PostgreSQL, Json Web Token.<br>
+        <a href="https://github.com/emanuelrodrigues2005/Express-Node-Prisma-Project"><strong>🔗 View Repository</strong></a>
       </td>
     </tr>
   </table>
