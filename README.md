@@ -1,163 +1,152 @@
 <div align="center">
-  <a href="https://github.com/emanuelrodrigues2005">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=30A9F0&center=true&vCenter=true&width=850&lines=Ol%C3%A1!+Eu+sou+o+Emanuel+Rodrigues;Hi!+I'm+Emanuel+Rodrigues;Desenvolvedor+de+Software+de+Recife-PE;Software+Developer+from+Recife-PE" alt="Typing SVG" />
-  </a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+eu+sou+Emanuel+Rodrigues;Hi%2C+I%27m+Emanuel+Rodrigues;AI+Engineer+%7C+DevOps+%7C+Software+Engineering;LLM+Applications+%7C+RAG+%7C+AWS+%7C+CI%2FCD" alt="Typing SVG" />
+
+**AI Engineer · DevOps · Software Engineering**<br/>
+`Recife, PE — Brazil`
+
+<img src="https://img.shields.io/badge/Open%20to-DevOps%20%26%20AI%20roles-22C55E?style=for-the-badge" alt="Open to DevOps and AI roles" />
+<a href="mailto:emanuelrodrigues112358@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/emanuel-rodrigues-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/emanuelrodrigues2005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
 </div>
 
-<div align="center">
-  <a href="mailto:emanuelrodrigues112358@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/emanuel-rodrigues-a9950a310/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
-
-<hr>
+---
 
 <details open>
-  <summary><h2>🇧🇷 Português (BR)</h2></summary>
-  
-  <p align="center">
-    Sou um desenvolvedor de software de Recife, atuando no <strong>Porto Digital</strong> e cursando Ciência da Computação na <strong>UFRPE</strong>. Tenho paixão por transformar problemas complexos em soluções de software elegantes e eficientes, navegando por diversas tecnologias que vão do back-end ao front-end.
-  </p>
+<summary><strong>🇧🇷 Português</strong></summary>
 
-  ### 🛠️ Tecnologias e Ferramentas
+### 👋 Sobre mim
 
-  <table align="center">
-    <tr>
-      <td align="center" width="120" height="120">
-        <strong>Linguagens</strong><br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" /><br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /><br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" /><br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" /><br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" /><br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /><br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40" alt="Assembly" />
-      </td>
-      <td align="center" width="120" height="120">
-        <strong>Backend</strong><br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" /><br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express" /><br><br>
-        <img src="https://nestjs.com/img/logo-small.svg" width="38" height="38" alt="NestJS" /><br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" height="40" alt="Prisma" />
-      </td>
-      <td align="center" width="120" height="120">
-        <strong>Frontend</strong><br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" /><br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
-      </td>
-      <td align="center" width="120" height="120">
-        <strong>Desktop & CMS</strong><br><br>
-        <img src="https://img.shields.io/badge/JavaFX-orange?style=for-the-badge&logo=oracle" width="80" alt="JavaFX" /><br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" height="40" alt="WordPress" /><br><br>
-        <img src="https://cdn.worldvectorlogo.com/logos/discourse.svg" width="40" height="40" alt="Discourse" />
-      </td>
-    </tr>
-  </table>
+Engenheiro de IA na **LeFil**, pesquisador de IA na **AIBox Lab**, cientista de dados na **LED/CIn-UFPE** e engenheiro full stack na **Livox**. Estudante de Ciência da Computação na **UFRPE** (6º período, formatura em 2028.1).
 
-  ### 🚀 Meus Principais Projetos
-  <table width="100%">
-    <tr>
-      <td width="33%" valign="top">
-        <h3>Projeto-Consórcio-IP-II</h3>
-        <p>Um sistema de desktop completo para gerenciamento de consórcios, desenvolvido em Java com JavaFX. Permite a administração de clientes, grupos e contratos, além de simulação de sorteios e controle financeiro.</p>
-        <strong>Tecnologias:</strong> Java, JavaFX, FXML, Maven.<br>
-        <a href="https://github.com/emanuelrodrigues2005/consorcio_project_ip"><strong>🔗 Ver Repositório</strong></a>
-      </td>
-      <td width="33%" valign="top">
-        <h3>Caxeiro-Viajante-Python</h3>
-        <p>Implementação em Python de algoritmos para solucionar o Problema do Caixeiro Viajante (PCV). O projeto explora e compara uma abordagem exata (Backtracking) e uma heurística (Algoritmo Guloso/Vizinho mais próximo).</p>
-        <strong>Tecnologias:</strong> Python.<br>
-        <a href="https://github.com/emanuelrodrigues2005/caxeiro-viajante-python"><strong>🔗 Ver Repositório</strong></a>
-      </td>
-      <td width="33%" valign="top">
-        <h3>Desenvolvimento API RESTful</h3>
-        <p>Desenvolvimento de uma API RESTful para um sistema de alunos e classes, utilização comunicação com banco de dados PostgreSQL.</p>
-        <strong>Tecnologias:</strong> TypeScript, Node.js, Express.js, Prisma ORM, PostgreSQL, Json Web Token.<br>
-        <a href="https://github.com/emanuelrodrigues2005/Express-Node-Prisma-Project"><strong>🔗 Ver Repositório</strong></a>
-      </td>
-    </tr>
-  </table>
+Construo e opero sistemas inteligentes de ponta a ponta: aplicações com **LLMs e RAG**, APIs em **Python**, pipelines de dados, infraestrutura na **AWS**, containers, **Terraform**, **Ansible** e **CI/CD**. Minha base é engenharia de software — é isso que me permite levar IA de protótipo para produção com confiabilidade. Também tenho experiência com desenvolvimento full stack, bancos relacionais e sistemas distribuídos. Antes, atuei como estagiário de desenvolvimento de software na LeFil (2025–2026), construindo APIs e pipelines de dados.
+
+🔭 **Construindo agora:** aplicações com LLMs/RAG na LeFil e pipelines de dados na LED/CIn-UFPE.
+
+### 🎯 O que estou fazendo agora
+
+- **AI Engineer @ LeFil** — aplicações com LLMs, RAG/LangChain, APIs e LLMOps. `ago/2026 – atual`
+- **AI Researcher @ AIBox Lab** — experimentos, avaliação de modelos e análise de resultados. `ago/2026 – atual`
+- **Data Science Researcher @ LED/CIn-UFPE** — pipelines e análise de dados com Python e SQL. `ago/2026 – atual`
+- **Full Stack Engineer @ Livox** — APIs, integrações e aplicações web. `ago/2026 – atual`
+- **Ciência da Computação @ UFRPE** — 6º período, formatura em 2028.1. `2024 – 2028`
+
+### 🧠 Foco técnico
+
+- **IA & Dados:** LLMs, RAG, LangChain, prompt engineering, embeddings, avaliação de modelos, LLMOps, Python, pandas, NumPy, scikit-learn, PyTorch, SQL e DuckDB.
+- **DevOps & Cloud:** AWS (EC2, VPC, ALB, Security Groups, VPC Peering), Terraform, Ansible, Docker, Docker Compose, GitHub Actions, Linux, Bash, observabilidade e troubleshooting.
+- **Engenharia de Software:** TypeScript, Node.js, NestJS, Prisma, PostgreSQL, PostGIS, MongoDB, Redis, RabbitMQ, React, Next.js, Java, Go e C/C++.
+- **Próximos focos:** Kubernetes, observabilidade (métricas, logs e traces) e avaliação de sistemas LLM em produção.
+
+### 🚀 Projetos em destaque
+
+- **[Praieira App](https://github.com/emanuelrodrigues2005/praieira-app)** *(projeto acadêmico em equipe)* — plataforma de turismo orientada a eventos com 5 microsserviços NestJS, RabbitMQ, PostgreSQL/PostGIS, MongoDB, Docker Compose e CI no GitHub Actions.
+- **[AWS Two-VPC Architecture](https://github.com/emanuelrodrigues2005/cloud-architecture-aws)** *(projeto acadêmico)* — arquitetura com duas VPCs, ALB, EC2 em múltiplas AZs, VPC Peering, NAT Gateway, Security Groups e deploy containerizado.
+- **LED ELT — NYC Taxi** *(projeto de processo seletivo, repositório privado)* — pipeline ELT com DuckDB para 2,96M de linhas, perfilamento, 21 checks de qualidade, reconciliação e orquestração com Make.
+- **[NestJS API](https://github.com/emanuelrodrigues2005/NestJS-API)** — API REST de referência com NestJS 11, Prisma 6, PostgreSQL e Swagger/OpenAPI.
+- **Também no GitHub (projetos acadêmicos):** [CPU Renderer](https://github.com/emanuelrodrigues2005/cpu-renderer-cpp) (C++17, CMake, CTest e CI) e [Caxeiro-Viajante](https://github.com/emanuelrodrigues2005/Caxeiro-Viajante-Python) (backtracking + heurística gulosa).
 
 </details>
 
 <details>
-  <summary><h2>🇺🇸 English (US)</h2></summary>
-  
-  <p align="center">
-    I'm a software developer from Recife, Brazil, currently working at <strong>Porto Digital</strong> and pursuing a degree in Computer Science at <strong>UFRPE</strong>. I am passionate about transforming complex problems into elegant and efficient software solutions, navigating through a diverse range of technologies from backend to frontend.
-  </p>
+<summary><strong>🇺🇸 English</strong></summary>
 
-  ### 🛠️ Technologies and Tools
-  <table align="center">
-    <tr>
-      <td align="center" width="120" height="120">
-        <strong>Languages</strong><br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" /><br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /><br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" /><br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" /><br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" /><br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /><br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40" alt="Assembly" />
-      </td>
-      <td align="center" width="120" height="120">
-        <strong>Backend</strong><br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" /><br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express" /><br><br>
-        <img src="https://nestjs.com/img/logo-small.svg" width="38" height="38" alt="NestJS" /><br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" height="40" alt="Prisma" />
-      </td>
-      <td align="center" width="120" height="120">
-        <strong>Frontend</strong><br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" /><br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
-      </td>
-      <td align="center" width="120" height="120">
-        <strong>Desktop & CMS</strong><br><br>
-        <img src="https://img.shields.io/badge/JavaFX-orange?style=for-the-badge&logo=oracle" width="80" alt="JavaFX" /><br><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" height="40" alt="WordPress" /><br><br>
-        <img src="https://cdn.worldvectorlogo.com/logos/discourse.svg" width="40" height="40" alt="Discourse" />
-      </td>
-    </tr>
-  </table>
+### 👋 About me
 
-  ### 🚀 My Top Projects
-  <table width="100%">
-    <tr>
-      <td width="33%" valign="top">
-        <h3>Consortium Project (Java)</h3>
-        <p>A complete desktop system for managing consortiums, developed in Java with JavaFX. It allows for the administration of clients, groups, and contracts, as well as simulating draws and financial control.</p>
-        <strong>Stacks:</strong> Java, JavaFX, FXML, Maven.<br>
-        <a href="https://github.com/emanuelrodrigues2005/consorcio_project_ip"><strong>🔗 View Repository</strong></a>
-      </td>
-      <td width="33%" valign="top">
-        <h3>Traveling Salesperson (Python)</h3>
-        <p>A Python implementation of algorithms to solve the Traveling Salesperson Problem (TSP). The project explores and compares an exact approach (Backtracking) and a heuristic (Greedy Algorithm/Nearest Neighbor).</p>
-        <strong>Stacks:</strong> Python.<br>
-        <a href="https://github.com/emanuelrodrigues2005/caxeiro-viajante-python"><strong>🔗 View Repository</strong></a>
-      </td>
-      <td width="33%" valign="top">
-        <h3>RESTful API Development</h3>
-        <p>Development of a RESTful API for a student and class system, using communication with a PostgreSQL database.L.</p>
-        <strong>Stacks:</strong> TypeScript, Node.js, Express.js, Prisma ORM, PostgreSQL, Json Web Token.<br>
-        <a href="https://github.com/emanuelrodrigues2005/Express-Node-Prisma-Project"><strong>🔗 View Repository</strong></a>
-      </td>
-    </tr>
-  </table>
+AI Engineer at **LeFil**, AI Researcher at **AIBox Lab**, Data Science Researcher at **LED/CIn-UFPE** and Full Stack Engineer at **Livox**. Computer Science student at **UFRPE** (6th semester, expected graduation 2028).
+
+I build and operate intelligent systems end to end: **LLM and RAG** applications, **Python** APIs, data pipelines, **AWS** infrastructure, containers, **Terraform**, **Ansible** and **CI/CD**. My foundation is software engineering — which lets me take AI from prototype to production with reliability. I also have experience with full-stack development, relational databases and distributed systems. Previously, I worked as a software development intern at LeFil (2025–2026), building APIs and data pipelines.
+
+🔭 **Currently building:** LLM/RAG applications at LeFil and data pipelines at LED/CIn-UFPE.
+
+### 🎯 What I'm doing now
+
+- **AI Engineer @ LeFil** — LLM applications, RAG/LangChain, APIs and LLMOps. `Aug 2026 – present`
+- **AI Researcher @ AIBox Lab** — experiments, model evaluation and result analysis. `Aug 2026 – present`
+- **Data Science Researcher @ LED/CIn-UFPE** — data pipelines and analysis with Python and SQL. `Aug 2026 – present`
+- **Full Stack Engineer @ Livox** — APIs, integrations and web applications. `Aug 2026 – present`
+- **Computer Science @ UFRPE** — 6th semester, expected graduation 2028. `2024 – 2028`
+
+### 🧠 Technical focus
+
+- **AI & Data:** LLMs, RAG, LangChain, prompt engineering, embeddings, model evaluation, LLMOps, Python, pandas, NumPy, scikit-learn, PyTorch, SQL and DuckDB.
+- **DevOps & Cloud:** AWS (EC2, VPC, ALB, Security Groups, VPC Peering), Terraform, Ansible, Docker, Docker Compose, GitHub Actions, Linux, Bash, observability and troubleshooting.
+- **Software Engineering:** TypeScript, Node.js, NestJS, Prisma, PostgreSQL, PostGIS, MongoDB, Redis, RabbitMQ, React, Next.js, Java, Go and C/C++.
+- **Next focus:** Kubernetes, observability (metrics, logs and traces) and evaluating LLM systems in production.
+
+### 🚀 Featured projects
+
+- **[Praieira App](https://github.com/emanuelrodrigues2005/praieira-app)** *(academic team project)* — event-driven tourism platform with 5 NestJS microservices, RabbitMQ, PostgreSQL/PostGIS, MongoDB, Docker Compose and GitHub Actions CI.
+- **[AWS Two-VPC Architecture](https://github.com/emanuelrodrigues2005/cloud-architecture-aws)** *(academic project)* — two-VPC architecture with ALB, EC2 across multiple AZs, VPC Peering, NAT Gateway, Security Groups and containerized deployment.
+- **LED ELT — NYC Taxi** *(selection-process project, private repository)* — DuckDB ELT pipeline for 2.96M rows with profiling, 21 quality checks, reconciliation and Make orchestration.
+- **[NestJS API](https://github.com/emanuelrodrigues2005/NestJS-API)** — reference REST API with NestJS 11, Prisma 6, PostgreSQL and Swagger/OpenAPI.
+- **Also on GitHub (academic projects):** [CPU Renderer](https://github.com/emanuelrodrigues2005/cpu-renderer-cpp) (C++17, CMake, CTest and CI) and [Traveling Salesman](https://github.com/emanuelrodrigues2005/Caxeiro-Viajante-Python) (backtracking + greedy heuristic).
+
 </details>
 
-<hr>
+---
 
-### 📊 GitHub Stats
+## 🛠️ Stack / Tecnologias
 
-<div align="center">
-  <a href="https://github.com/emanuelrodrigues2005">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanuelrodrigues2005&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelrodrigues2005&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
+<h3 align="center">🧠 AI & Data / IA e Dados</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn&theme=dark&perline=3" alt="Python, PyTorch and scikit-learn" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-6D28D9?style=for-the-badge" alt="LLMs" />
+  <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-2563EB?style=for-the-badge" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/LLMOps-0F766E?style=for-the-badge" alt="LLMOps" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
+
+<h3 align="center">☁️ DevOps & Cloud</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,terraform,ansible,linux,bash,githubactions,git&theme=dark&perline=8" alt="AWS, Docker, Terraform, Ansible, Linux, Bash, GitHub Actions and Git" />
+</p>
+
+<h3 align="center">🧱 Software Engineering / Engenharia de Software</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,prisma,postgres,mongodb,redis,rabbitmq,react,nextjs,java,go,cpp&theme=dark&perline=7" alt="TypeScript, JavaScript, Node.js, NestJS, Prisma, PostgreSQL, MongoDB, Redis, RabbitMQ, React, Next.js, Java, Go and C++" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=emanuelrodrigues2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Emanuel's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelrodrigues2005&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&hide=html,css,scss,haskell,verilog,assembly" alt="Emanuel's top languages" />
+</p>
+
+---
+
+## 📜 Cursos e Certificações / Courses & Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Foundations-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Academy Cloud Foundations" />
+  <img src="https://img.shields.io/badge/Alura-Python%20%26%20C-0B5FFF?style=flat-square" alt="Alura Python and C" />
+  <img src="https://img.shields.io/badge/CESAR%20School-Plataformas%20Digitais-6D28D9?style=flat-square" alt="CESAR School Digital Platforms" />
+</p>
+
+---
+
+## 📫 Contato / Contact
+
+<p align="center">
+  <a href="mailto:emanuelrodrigues112358@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/emanuel-rodrigues-dev"><img src="https://img.shields.io/badge/LinkedIn-Emanuel%20Rodrigues-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/emanuelrodrigues2005"><img src="https://img.shields.io/badge/GitHub-emanuelrodrigues2005-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<p align="center"><code>emanuelrodrigues112358@gmail.com</code></p>
+
+<p align="center"><i>Open to DevOps, Cloud and AI Engineering opportunities.<br/>Aberto a oportunidades em DevOps, Cloud e Engenharia de IA.</i></p>
