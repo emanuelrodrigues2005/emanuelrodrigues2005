@@ -1,0 +1,44 @@
+<svg width="600" height="240" viewBox="0 0 600 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="NestJS REST API with Prisma, PostgreSQL and Swagger">
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" stroke="#17344A" stroke-width="0.6"/>
+    </pattern>
+  </defs>
+  <rect width="600" height="240" fill="#0B1E2E"/>
+  <rect width="600" height="240" fill="url(#grid)" opacity="0.6"/>
+  <rect x="0.5" y="0.5" width="599" height="239" stroke="#24455E"/>
+
+  <text x="24" y="32" font-family="'Courier New', monospace" font-size="16" letter-spacing="1.6" fill="#7DD3FC">NESTJS / REST API</text>
+  <text x="24" y="50" font-family="'Courier New', monospace" font-size="13" letter-spacing="1.2" fill="#7A9CB3">PRISMA · POSTGRESQL · SWAGGER</text>
+
+  <g font-family="'Courier New', monospace" font-size="13" letter-spacing="0.7" fill="#D8E8F2" text-anchor="middle">
+    <rect x="30" y="112" width="110" height="36" rx="4" fill="#0F2A40" stroke="#2F6A8A"/>
+    <text x="85" y="134">CLIENT</text>
+    <rect x="170" y="112" width="110" height="36" rx="4" fill="#0F2A40" stroke="#38BDF8"/>
+    <text x="225" y="134">API</text>
+    <rect x="310" y="112" width="110" height="36" rx="4" fill="#0F2A40" stroke="#2F6A8A"/>
+    <text x="365" y="134">PRISMA</text>
+    <rect x="450" y="112" width="110" height="36" rx="4" fill="#0F2A40" stroke="#2F6A8A"/>
+    <text x="505" y="134">POSTGRES</text>
+  </g>
+
+  <g stroke="#2F6A8A">
+    <line x1="140" y1="130" x2="170" y2="130"/>
+    <line x1="280" y1="130" x2="310" y2="130"/>
+    <line x1="420" y1="130" x2="450" y2="130"/>
+  </g>
+  <g fill="#2F6A8A">
+    <path d="M168 126l5 4-5 4z"/>
+    <path d="M308 126l5 4-5 4z"/>
+    <path d="M448 126l5 4-5 4z"/>
+  </g>
+
+  <g font-family="'Courier New', monospace" font-size="10" letter-spacing="0.8" fill="#7A9CB3">
+    <text x="225" y="100" text-anchor="middle">JWT</text>
+    <text x="365" y="100" text-anchor="middle">DTO</text>
+    <text x="505" y="100" text-anchor="middle">OPENAPI</text>
+  </g>
+
+  <text x="24" y="196" font-family="'Courier New', monospace" font-size="13" letter-spacing="1.1" fill="#8FB3C9">6 ENDPOINTS · VALIDATION · TESTS</text>
+  <text x="24" y="218" font-family="'Courier New', monospace" font-size="13" letter-spacing="1.1" fill="#5F849C">MODULAR ARCHITECTURE · SWAGGER / OPENAPI</text>
+</svg>

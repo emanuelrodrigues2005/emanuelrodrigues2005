@@ -1,0 +1,42 @@
+<svg width="600" height="240" viewBox="0 0 600 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Praieira App event-driven microservices architecture">
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" stroke="#17344A" stroke-width="0.6"/>
+    </pattern>
+  </defs>
+  <rect width="600" height="240" fill="#0B1E2E"/>
+  <rect width="600" height="240" fill="url(#grid)" opacity="0.6"/>
+  <rect x="0.5" y="0.5" width="599" height="239" stroke="#24455E"/>
+
+  <text x="24" y="32" font-family="'Courier New', monospace" font-size="16" letter-spacing="1.6" fill="#7DD3FC">PRAIEIRA / EVENT-DRIVEN</text>
+  <text x="24" y="50" font-family="'Courier New', monospace" font-size="13" letter-spacing="1.2" fill="#7A9CB3">5 NESTJS SERVICES · POSTGIS · MONGODB</text>
+
+  <text x="24" y="122" font-family="'Courier New', monospace" font-size="13" letter-spacing="1.2" fill="#8FB3C9">EVENT BUS / RABBITMQ</text>
+  <line x1="24" y1="132" x2="576" y2="132" stroke="#2F6A8A" stroke-width="1.2"/>
+  <circle cx="576" cy="132" r="3" fill="#F59E0B"/>
+
+  <g font-family="'Courier New', monospace" font-size="13" letter-spacing="0.8" fill="#D8E8F2" text-anchor="middle">
+    <rect x="30" y="154" width="90" height="28" rx="4" fill="#0F2A40" stroke="#2F6A8A"/>
+    <text x="75" y="172">AUTH</text>
+    <line x1="75" y1="132" x2="75" y2="154" stroke="#2F6A8A"/>
+
+    <rect x="142" y="154" width="90" height="28" rx="4" fill="#0F2A40" stroke="#2F6A8A"/>
+    <text x="187" y="172">CATALOG</text>
+    <line x1="187" y1="132" x2="187" y2="154" stroke="#2F6A8A"/>
+
+    <rect x="254" y="154" width="90" height="28" rx="4" fill="#0F2A40" stroke="#2F6A8A"/>
+    <text x="299" y="172">REVIEWS</text>
+    <line x1="299" y1="132" x2="299" y2="154" stroke="#2F6A8A"/>
+
+    <rect x="366" y="154" width="90" height="28" rx="4" fill="#0F2A40" stroke="#2F6A8A"/>
+    <text x="411" y="172">CURATION</text>
+    <line x1="411" y1="132" x2="411" y2="154" stroke="#2F6A8A"/>
+
+    <rect x="478" y="154" width="90" height="28" rx="4" fill="#0F2A40" stroke="#2F6A8A"/>
+    <text x="523" y="172">ANALYTICS</text>
+    <line x1="523" y1="132" x2="523" y2="154" stroke="#2F6A8A"/>
+  </g>
+
+  <text x="24" y="212" font-family="'Courier New', monospace" font-size="13" letter-spacing="1.1" fill="#8FB3C9">POSTGRESQL / POSTGIS · MONGODB</text>
+  <text x="24" y="228" font-family="'Courier New', monospace" font-size="13" letter-spacing="1.1" fill="#5F849C">DOCKER COMPOSE · GITHUB ACTIONS CI</text>
+</svg>

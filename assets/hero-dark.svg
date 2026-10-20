@@ -1,0 +1,53 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Emanuel Rodrigues, AI Engineer, DevOps and Software Engineering, Recife, Brazil">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071521"/>
+      <stop offset="1" stop-color="#0D2A42"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#17364D" stroke-width="0.7"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#grid)" opacity="0.65"/>
+  <rect x="0.5" y="0.5" width="1199" height="299" stroke="#2A4A63"/>
+  <rect x="0" y="0" width="5" height="300" fill="#38BDF8"/>
+
+  <text x="56" y="58" font-family="'Courier New', monospace" font-size="11" letter-spacing="2.2" fill="#7DD3FC">RECIFE, BRAZIL / AI · CLOUD · SOFTWARE</text>
+
+  <text x="54" y="142" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="700" letter-spacing="-1.5" fill="#F1F7FB">EMANUEL</text>
+  <text x="54" y="200" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="700" letter-spacing="-1.5" fill="#F1F7FB">RODRIGUES</text>
+
+  <text x="56" y="238" font-family="'Courier New', monospace" font-size="13" letter-spacing="1.4" fill="#9FC3D8">AI ENGINEER · DEVOPS · SOFTWARE ENGINEERING</text>
+  <rect x="56" y="256" width="64" height="2" fill="#F59E0B"/>
+
+  <g opacity="0.92">
+    <circle cx="980" cy="150" r="108" stroke="#1E4A66" stroke-width="1"/>
+    <circle cx="980" cy="150" r="72" stroke="#2B6A8A" stroke-width="1" stroke-dasharray="3 5"/>
+    <circle cx="980" cy="150" r="36" stroke="#38BDF8" stroke-width="1" opacity="0.55"/>
+
+    <line x1="980" y1="42" x2="980" y2="108" stroke="#2F6A8A"/>
+    <line x1="1088" y1="150" x2="1016" y2="150" stroke="#2F6A8A"/>
+    <line x1="1047" y1="235" x2="1004" y2="184" stroke="#2F6A8A"/>
+    <line x1="913" y1="235" x2="956" y2="184" stroke="#2F6A8A"/>
+    <line x1="872" y1="150" x2="944" y2="150" stroke="#2F6A8A"/>
+
+    <circle cx="980" cy="42" r="5" fill="#38BDF8"/>
+    <circle cx="1088" cy="150" r="5" fill="#38BDF8"/>
+    <circle cx="1047" cy="235" r="5" fill="#38BDF8"/>
+    <circle cx="913" cy="235" r="5" fill="#38BDF8"/>
+    <circle cx="872" cy="150" r="5" fill="#38BDF8"/>
+    <circle cx="980" cy="150" r="9" fill="#F59E0B"/>
+
+    <text x="980" y="24" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" letter-spacing="1.2" fill="#9FC3D8">LLM</text>
+    <text x="1102" y="154" font-family="'Courier New', monospace" font-size="10" letter-spacing="1.2" fill="#9FC3D8">RAG</text>
+    <text x="1047" y="252" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" letter-spacing="1.2" fill="#9FC3D8">AWS</text>
+    <text x="913" y="252" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" letter-spacing="1.2" fill="#9FC3D8">CI/CD</text>
+    <text x="856" y="154" text-anchor="end" font-family="'Courier New', monospace" font-size="10" letter-spacing="1.2" fill="#9FC3D8">API</text>
+
+    <text x="980" y="178" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" letter-spacing="1" fill="#F59E0B">PROD</text>
+  </g>
+
+  <text x="1140" y="280" text-anchor="end" font-family="'Courier New', monospace" font-size="9" letter-spacing="1.4" fill="#5B819A">SYSTEMS / INTELLIGENCE / OPERATIONS</text>
+</svg>
