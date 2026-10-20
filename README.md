@@ -83,8 +83,6 @@ Pipeline ELT com DuckDB para 2,96M de linhas, perfilamento, 21 checks de qualida
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-2563EB?style=for-the-badge" alt="Prompt Engineering" />
   <img src="https://img.shields.io/badge/LLMOps-0F766E?style=for-the-badge" alt="LLMOps" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 </p>
 
 **Cloud & DevOps**
