@@ -67,7 +67,17 @@ Pipeline ELT com DuckDB para 2,96M de linhas, perfilamento, 21 checks de qualida
 
 <sub>DuckDB ELT pipeline for 2.96M rows with profiling, 21 quality checks, reconciliation and Make orchestration.</sub>
 
-**More on GitHub / Mais no GitHub:** [NestJS API](https://github.com/emanuelrodrigues2005/NestJS-API) · [CPU Renderer](https://github.com/emanuelrodrigues2005/cpu-renderer-cpp) · [Traveling Salesman](https://github.com/emanuelrodrigues2005/Caxeiro-Viajante-Python)
+<a href="https://github.com/emanuelrodrigues2005/NestJS-API"><img src="assets/nestjs-api.svg" alt="NestJS REST API with Prisma and PostgreSQL" width="100%"></a>
+
+**NestJS API** · *Reference implementation / Implementação de referência*
+
+API REST com NestJS 11, Prisma 6, PostgreSQL, validação de DTOs e documentação Swagger/OpenAPI.
+
+<sub>REST API with NestJS 11, Prisma 6, PostgreSQL, DTO validation and Swagger/OpenAPI documentation.</sub>
+
+[Repository / Repositório](https://github.com/emanuelrodrigues2005/NestJS-API)
+
+**More on GitHub / Mais no GitHub:** [CPU Renderer](https://github.com/emanuelrodrigues2005/cpu-renderer-cpp) · [Traveling Salesman](https://github.com/emanuelrodrigues2005/Caxeiro-Viajante-Python)
 
 ## Stack
 
